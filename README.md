@@ -38,13 +38,13 @@ Desenvolver um sistema de semáforo inteligente utilizando a plataforma Raspberr
 ## 📦 Componentes Utilizados  
 - Microcontrolador: RP2040 (BitDogLab)  
 - Display: OLED SSD1306 (128x64, I2C)  
-- Matriz de LEDs: WS2812B 5x5 (controlada por PIO)  
-- Buzzer: Ativo com controle de frequência  
-- LED RGB: Comum anódico  
-- Botão: Para alternância de modos  
+- Matriz de LEDs: WS2812B 5x5  
+- Buzzer 
+- LED RGB
+- Botão 
 ## ⚙️ Compilação e Gravação  
 ```bash
-git clone https://github.com/Ronaldo8617/semaforo-freertos.git
+git clone https://github.com/Ronaldo8617/SemaforoTask-F2
 
 **Gravação:**  
 Pelo ambiente do VScode compile e execute na placa de desnvovimento BitDogLab

@@ -1,6 +1,7 @@
 # Projeto de Semáforo Inteligente com FreeRTOS
 
-## 📌 Sumário
+## 📌 Sumário  
+- [📹 Demonstração](#-Demonstração)
 - [🎯 Objetivo](#-objetivo)
 - [🛠️ Funcionalidades Implementadas](#️-funcionalidades-implementadas)
 - [✨ Destaques](#-destaques)
@@ -9,6 +10,9 @@
 - [📂 Estrutura do Código](#-estrutura-do-código)
 - [🔧 Diagrama de Estados](#-diagrama-de-estados)
 - [👨‍💻 Autor](#-autor)
+
+## 📹 Demonstração  
+[clique aqui para acessar o vídeo](https://youtu.be/7DPF8P_o5AM)
 
 ## 🎯 Objetivo
 Desenvolver um sistema de semáforo inteligente utilizando a plataforma Raspberry Pi Pico W com FreeRTOS, implementando controle de estados, modo noturno e interface com periféricos.

@@ -6,9 +6,7 @@
 - [🛠️ Funcionalidades Implementadas](#️-funcionalidades-implementadas)
 - [✨ Destaques](#-destaques)
 - [📦 Componentes Utilizados](#-componentes-utilizados)
-- [⚙️ Configuração e Compilação](#️-configuração-e-compilação)
-- [📂 Estrutura do Código](#-estrutura-do-código)
-- [🔧 Diagrama de Estados](#-diagrama-de-estados)
+- [⚙️ Configuração e Gravação](#️-configuração-e-gravação)
 - [👨‍💻 Autor](#-autor)
 
 ## 📹 Demonstração  

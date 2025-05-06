@@ -48,7 +48,7 @@ git clone https://github.com/Ronaldo8617/semaforo-freertos.git
 Pelo ambiente do VScode compile e execute na placa de desnvovimento BitDogLab
 Ou
 Conecte o RP2040 no modo BOOTSEL e copie o `.uf2` gerado na pasta `build` para a unidade montada.
-``
+```
 
 ## 👨‍💻 Autor  
 **Nome:** Ronaldo César Santos Rocha  
